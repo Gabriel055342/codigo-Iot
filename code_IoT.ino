@@ -164,7 +164,7 @@ void loop() {
     }else
     {
       digitalWrite(pin_led_rojo, HIGH);
-      digitalWrite(pin_led_verde, LOW);
+      digitalWrite(pin_led_verde, LOW);  // apagar led
       digitalWrite(pin_led_naranja, LOW);
       digitalWrite(pin_motor, LOW); // apagar el motor
     }
