@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // Configuración de conexión WiFi
-const char* nombre_red = "SISTELCEL_JIMMY";
-const char* contraseña_red = "mch0106386071jj***";
+const char* nombre_red = "lalo_red";
+const char* contraseña_red = "lalo233";
 
 // Configuración de MQTT
 const char* mqtt_token = "mnyuOKOt6cHL642tmspe";
