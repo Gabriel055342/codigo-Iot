@@ -140,8 +140,8 @@ void loop() {
     
 
     Serial.print("VALOR CALCULADO.... ");
-    Serial.println((21.68-distancia_medida) * 100 / 19);
-    distancia = (21.68-distancia_medida)*100/19;
+    Serial.println((21.68-distancia_medida) * 100 / 21.68);
+    distancia = (21.68-distancia_medida)*100/21.68;
 
 
 
